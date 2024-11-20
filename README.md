@@ -11,16 +11,9 @@
 
 
 ### knowledge
-<a href="/README.md#Databricks"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/></a>
 <a href="/README.md#Terraform"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/></a>
 <a href="/README.md#Grafana"><img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/></a>
 <a href="/README.md#Prometheus"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/></a>
-
-### etc.
-<a href="/README.md#Confluence"><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"/></a>
-<a href="/README.md#Jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
-
-  
 <!--
 **kyeeah/kyeeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
